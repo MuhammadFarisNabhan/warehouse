@@ -1,2 +1,2 @@
-# warehouse
-Buat aplikasi pengelolaan barang warehouse
+# Aplikasi Warehouse
+Membuat aplikasi pengelolaan barang warehouse menggunakan android studio
